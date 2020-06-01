@@ -1,4 +1,4 @@
 # Neural-Network
-Обученная многослойная нейросеть на датасете "Игрушка Дьявола"
+Многослойная нейросеть, обученная на датасете "Игрушка Дьявола"
 
-Trained multi-layer neural network on the "devil's Toy" dataset
+Multi-layer neural network trained on the "devil's Toy" dataset
